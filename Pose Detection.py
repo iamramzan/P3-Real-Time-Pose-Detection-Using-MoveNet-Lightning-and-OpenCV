@@ -1,4 +1,4 @@
-# P8: Real-Time Pose Detection Using MoveNet Lightning and OpenCV
+# P4: Real-Time Pose Detection Using MoveNet Lightning and OpenCV
 import tensorflow as tf
 import numpy as np
 from matplotlib import pyplot as plt
