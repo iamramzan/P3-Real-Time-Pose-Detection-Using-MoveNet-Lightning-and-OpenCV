@@ -31,6 +31,8 @@ This project showcases real-time human pose detection using the MoveNet Lightnin
 ## ✨ Engage and Collaborate!
 This project is just the beginning! Whether you're curious about AI-powered pose estimation or have ideas for further applications (e.g., dance analysis, sports coaching, AR/VR interactions), let's discuss and collaborate.
 
-## 📩 Share your feedback, suggestions, or questions in the comments. If you'd like to connect for deeper insights or potential collaborations, feel free to message me directly. Together, we can push the boundaries of AI-driven innovations!
+## 📩 Share your feedback, suggestions, or questions in the comments.
+
+If you'd like to connect for deeper insights or potential collaborations, feel free to message me directly. Together, we can push the boundaries of AI-driven innovations!
 
 [![P3: Real-Time Pose Detection Using MoveNet Lightning and OpenCV](https://img.youtube.com/vi/yJOxCF0eIEM/0.jpg)](https://youtu.be/yJOxCF0eIEM)
