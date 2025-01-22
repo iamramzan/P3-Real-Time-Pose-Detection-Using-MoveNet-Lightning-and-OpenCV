@@ -1,4 +1,4 @@
-## P3-Real-Time-Pose-Detection-Using-MoveNet-Lightning-and-OpenCV
+## Real-Time-Pose-Detection-Using-MoveNet-Lightning-and-OpenCV
 
 This project showcases real-time human pose detection using the MoveNet Lightning model, one of the fastest deep learning models for pose estimation. It leverages Python, TensorFlow Lite, OpenCV, and NumPy to capture live webcam footage, preprocess frames, and detect keypoints like joints in real time. The system renders skeletal connections dynamically, making it ideal for interactive applications such as fitness tracking, gaming, and gesture control.
 
